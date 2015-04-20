@@ -1,24 +1,35 @@
-
 body {
     margin: 0;
-    background-color: hsl(0, 0%, 0%);
 }
 
 body * {
     box-sizing: border-box;
-    /* box-shadow: 1px 1px 1px hsl(0, 0%, 79%); */
 }
 
 .sites {
-    display: block;
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
 }
 
 .card {
+    border: 1px solid #ddd;
+    padding: 10px;
     width: 240px;
     height: 160px;
     display: inline-block;
     vertical-align: top;
-    margin: 0 20px 20px 0;
+    margin: 10px;
+}
+
+.ionic{
+    background: #296AD4;
+    padding: 30px;
+}
+
+.dark{
+    background: #444;
 }
 
 .site img {
