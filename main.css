@@ -44,3 +44,13 @@ body * {
     height: 100%;
     width: 100%;
 }
+
+.fork {
+    text-align: center;
+    font-size: 12px;
+    margin: 40px;
+}
+
+.fork a {
+    color: #aaf;
+}
