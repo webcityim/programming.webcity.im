@@ -54,3 +54,16 @@ body * {
 .fork a {
     color: #aaf;
 }
+
+.weibo-page {
+    margin: 40px;
+}
+
+.weibo-page .weibo {
+    display: inline-block;
+}
+.weibo-page .weibo img {
+    width: 80px;
+    height: 80px;
+    box-shadow: 0 0 2px black;
+}

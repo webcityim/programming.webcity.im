@@ -2,7 +2,7 @@
 Programming City
 ----
 
-A simple navigation of Chinese Programming Forums.
+A simple navigation of Chinese Programming Forums and Weibos.
 
 http://programming.webcity.io
 
